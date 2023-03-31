@@ -15,5 +15,12 @@ Here is the proposed program of the event:
 | Leveraging Open Science in Bioinformatics  | Introduce open science concept <br/> Open science taxonomy and skills <br/> Application of open science tools in research and bioinformatics <br/> Benefits of practicing open science |
 | Networking session | Students will be grouped into small groups led by a member of BHKi. The goal is to motivate students <br/> Open discussion - introduce themselves <br/> Leads share their bioinformatics journey |
 
- 
+
+The Open Life Science Program  [OLS](https://openlifesci.org/), BHKi, and Dr. Caleb Kibet have provided funding for our previous outreach events, which have enabled us to reach between 150 to 200 students in each university.
+
+Blog Posts for previous outreach events: <br/>
+1. [Technical University of Kenya outreach events]() <br/>
+2. [Chuka university outreach events]() <br/>
+
+
 
