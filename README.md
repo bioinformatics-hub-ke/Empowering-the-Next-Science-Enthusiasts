@@ -16,7 +16,7 @@ Here is the proposed program of the event:
 | Networking session | Students will be grouped into small groups led by a member of BHKi. The goal is to motivate students <br/> Open discussion - introduce themselves <br/> Leads share their bioinformatics journey |
 
 
-We acknowledge The Open Life Science Program  [OLS](https://openlifesci.org/), BHKi, and Dr. Caleb Kibet who have provided funding for our previous outreach events, which have enabled us to reach between 150 to 200 students in each university.
+We acknowledge the Open Life Science Program  [OLS](https://openlifesci.org/), BHKi, and Dr. Caleb Kibet who have provided funding for our previous outreach events, which have enabled us to reach between 150 to 200 students in each university.
 
 You can read about our previous outreach events by visiting the blog post provided. <br/>
 1. [Technical University of Kenya outreach events](https://www.linkedin.com/pulse/technical-university-kenya-tuk-outreach) <br/>
