@@ -19,8 +19,8 @@ Here is the proposed program of the event:
 The Open Life Science Program  [OLS](https://openlifesci.org/), BHKi, and Dr. Caleb Kibet have provided funding for our previous outreach events, which have enabled us to reach between 150 to 200 students in each university.
 
 Blog Posts for previous outreach events: <br/>
-1. [Technical University of Kenya outreach events]() <br/>
-2. [Chuka university outreach events]() <br/>
+1. [Technical University of Kenya outreach events](https://www.linkedin.com/pulse/technical-university-kenya-tuk-outreach) <br/>
+2. [Chuka university outreach events](https://www.linkedin.com/pulse/chuka-university-outreach-bioinformatics-hub-of-kenya-initia?trk=public_post_feed-article-content) <br/>
 
 
 
